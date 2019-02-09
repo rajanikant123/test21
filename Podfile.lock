@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (4.8.0)
+  - Alamofire (4.8.1)
   - AlamofireImage (3.5.0):
     - Alamofire (~> 4.8)
 
@@ -13,7 +13,7 @@ SPEC REPOS:
     - AlamofireImage
 
 SPEC CHECKSUMS:
-  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
   AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
 
 PODFILE CHECKSUM: e24951acf0c312a7d0d7a314d2b6d015949ff4fe
