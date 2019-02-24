@@ -12,7 +12,7 @@ import Alamofire
 class ApiClient: NSObject {
     
     func fetApiRequest(url : String, completion:@escaping ( Model) -> () ) {
-        
+        sdc
       
         
         Alamofire.request(url, method: .get, parameters: nil, encoding: URLEncoding.default, headers: nil)
